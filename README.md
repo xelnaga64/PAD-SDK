@@ -3,7 +3,7 @@ PAD SDK with PHP7 Support
 
 Original Project: https://pad.asp-software.org/padsdk.php
 
-Since the original SDK is not updated any more by its authors, I updated to make it work on PHP7.
+Since the original SDK is not updated any more by its authors, I've updated it to work with php7.
 
 PAD(R) - Provided by the Association of Software Professionals
 
